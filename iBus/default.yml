@@ -1,0 +1,9 @@
+server:
+  port: 8080
+adapter:
+  host: 10.10.100.46
+  port: 8001
+management:
+  server:
+    port: 8090
+
